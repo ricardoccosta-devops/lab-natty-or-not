@@ -1,41 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ChatBot da empresa de projetos especializda em Cloud e IA Generative
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá pessoal, sou Ricardo C Costa! Inspirado em novas tecnologias, estou criando este Lab da DIO para apresentar aquilo que venho trabalhando nos ultimos meses usando a IA seja esta Open.AI seja CoPilot seja SWAY da MSoft ou de outros player de cloud providers. Conforme colocado anteriormente tenho atuado na area de GENERATIVE AI e Arquitetura Cloud onde tento buscar  insights, conhecimento para implementar de forma segura e muito usual as tecnologia emergentes. Utilizando tecnologias como Open.AI atraves da Msoft, BEDRock da AWS ou Genini da GCP, com o objetivo de criar conteúdos que sejam importantes e super claros para aqueles que desejam conhecer um pouco mais desta tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Open.AI API (Speech to Text)
+Msoft Sway
+Gamma
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tudo que foi construido seguiu de uma ideia inicial que esta sendo trabalhada para trazer um chatbot interativo usando muitos dos exemplos dados pelo time da DIO.
+De uma brincadeira em momento de relaxamento que trouxe insight para implementar e colocar em pratica um plano B.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Criação de uma Avatar simples com uso da fala e expressão atraves de uma Anine que poderá facilitar a tratamento e as respostas para que usuários possam sanar duvidas de melhor arquitetura seja em soluções, dados passando por DevOps e entender sobre alguns framewaork como BIAN, CAF entre outros
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito bom pois testando pude identificar as milhoes de possibilidades que a IA permite.
 ```
 
 ### Exemplos e Insigths
